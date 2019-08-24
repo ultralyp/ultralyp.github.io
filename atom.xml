@@ -6,7 +6,7 @@
   <link href="/ultralyp.github.io/atom.xml" rel="self"/>
   
   <link href="https://ultralyp.github.io/"/>
-  <updated>2019-08-22T15:08:07.958Z</updated>
+  <updated>2019-08-22T14:24:33.237Z</updated>
   <id>https://ultralyp.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的学生生涯就要结束了</title>
+    <link href="https://ultralyp.github.io/2019/08/20/graduation/"/>
+    <id>https://ultralyp.github.io/2019/08/20/graduation/</id>
+    <published>2019-08-20T10:55:10.000Z</published>
+    <updated>2019-08-22T14:24:33.237Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="my-first-post"><a href="#my-first-post" class="headerlink" title="my first post."></a>my first post.</h3><ul><li>i just want to write down something.</li><li>i like this.</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;my-first-post&quot;&gt;&lt;a href=&quot;#my-first-post&quot; class=&quot;headerlink&quot; title=&quot;my first post.&quot;&gt;&lt;/a&gt;my first post.&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;i just want to wri
+      
+    
+    </summary>
+    
+    
+      <category term="文集" scheme="https://ultralyp.github.io/tags/%E6%96%87%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>罗密欧与朱丽叶</title>
@@ -52,30 +76,6 @@
       
       
         &lt;h3 id=&quot;The-common-problems-of-Chinese-parents-in-education&quot;&gt;&lt;a href=&quot;#The-common-problems-of-Chinese-parents-in-education&quot; class=&quot;headerlin
-      
-    
-    </summary>
-    
-    
-      <category term="文集" scheme="https://ultralyp.github.io/tags/%E6%96%87%E9%9B%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>我的学生生涯就要结束了</title>
-    <link href="https://ultralyp.github.io/2019/08/20/graduation/"/>
-    <id>https://ultralyp.github.io/2019/08/20/graduation/</id>
-    <published>2019-08-20T10:55:10.000Z</published>
-    <updated>2019-08-22T14:24:33.237Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="my-first-post"><a href="#my-first-post" class="headerlink" title="my first post."></a>my first post.</h3><ul><li>i just want to write down something.</li><li>i like this.</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;my-first-post&quot;&gt;&lt;a href=&quot;#my-first-post&quot; class=&quot;headerlink&quot; title=&quot;my first post.&quot;&gt;&lt;/a&gt;my first post.&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;i just want to wri
       
     
     </summary>
