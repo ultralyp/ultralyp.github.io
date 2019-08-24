@@ -1865,7 +1865,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3e41f5;
+  background: #b5a182;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2725,6 +2725,9 @@ embed {
 .header {
   line-height: 1.5;
 }
+.container {
+  background-color: rgba(225,23,25,0.1);
+}
 .header-inner {
   padding-top: 35px;
   padding-bottom: 0px;
@@ -3017,7 +3020,7 @@ img.img-topic {
 }
 .site-nav-toggle {
   top: 35px;
-  left: 91px;
+  left: 81px;
 }
 .btn-bar {
   background-color: #fff;
@@ -3046,5 +3049,13 @@ img.img-topic {
   }
   .menu .menu-item {
     margin: 0px 10px !important;
+  }
+}
+@media (max-width: 767px) {
+  .back-to-top {
+    display: block !important;
+  }
+  .sidebar-toggle {
+    display: block !important;
   }
 }
